@@ -6,5 +6,6 @@ using namespace std;
 
 int main ()
 {
+    //ncurses podcluchit
     return 0;
 }
